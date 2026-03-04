@@ -19,6 +19,8 @@ project:
         - file: notebooks/06 - Neural Networks.ipynb
         - file: notebooks/07 - Convolutional Neural Networks.ipynb
         - file: notebooks/08 - Transformers.ipynb
+        - file: notebooks/09 - Fine-Tuning LLMs.ipynb
+        - file: notebooks/10 - Agentic AI.ipynb
     - title: Labs
       children:
         - file: labs/Lab 0 - Prerequisites.ipynb
