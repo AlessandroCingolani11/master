@@ -32,6 +32,7 @@ project:
         - file: labs/Lab 4 - Neural Networks.ipynb
         - file: labs/Lab 5 - Convolutional Neural Networks.ipynb
         - file: labs/Lab 6 - Transformers.ipynb
+        - file: labs/Interactive Lab 1 - Linear Models.ipynb
     - title: Tutorials
       children:
         - file: notebooks/Tutorial 1 - Python.ipynb

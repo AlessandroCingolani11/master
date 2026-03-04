@@ -46,6 +46,16 @@ Download the lab notebooks and solve the questions locally, or launch them in Go
 | 6 | [Transformers](https://ml-course.github.io/master/labs/lab-6-transformers)<sup>1</sup>  |  [Tutorial](https://ml-course.github.io/master/labs/Lab%206%20-%20Tutorial) | [Lab 6](https://github.com/ML-course/master/blob/master/lab_solutions/Lab%206a%20-%20Transformers%20Solution.ipynb) (Release date: 18 Mar, 12:00)
 | 6 | [Finetuning Foundation Models]()<sup>1</sup>  |  [Tutorial]() | [Lab 7]() (Release date: 25 Mar, 12:00)
 
+## Interactive Labs
+You have to be there to realy experience these labs :). A mix of history, quizzes, interview questions, in-class competitions and more!
+
+|   | Notebooks          |     Slides     |
+|:--|:-------------------|------------------|
+| 1 | [Linear Models](https://ml-course.github.io/master/labs/interactive-lab-1-linear-models) | [Slides](https://github.com/ML-course/master/blob/master/labs/Interactive%20Lab%201%20-%20Linear%20Models.pdf)
+| 2 | [Model Evaluation](https://ml-course.github.io/master/labs/interactive-lab-2-model-evaluation) | [Slides](https://github.com/ML-course/master/blob/master/labs/Interactive%20Lab%202%20-%20Model%20Evaluation.pdf)
+| 3 | [Preprocessing and Ensembles](https://ml-course.github.io/master/labs/interactive-lab-3-preprocessing-and-ensembles) | [Slides](https://github.com/ML-course/master/blob/master/labs/Interactive%20Lab%203%20-%20Preprocessing%20and%20Ensembles.pdf)
+
+
 ## Background materials
 ### Tutorials
 General introductions into using Python for scientific programming and machine learning.
