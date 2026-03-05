@@ -16,7 +16,9 @@ Upon opening the notebooks, you can <i class="fas fa-rocket"></i> launch them in
 | 6 | [Neural Networks](https://ml-course.github.io/master/notebooks/neural-networks)  | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/06%20-%20Neural%20Networks.pdf)  | [Youtube](https://www.youtube.com/watch?v=CgAMLWZE-yU&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 7 | [Convolutional Neural Networks](https://ml-course.github.io/master/notebooks/convolutional-neural-networks)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/07%20-%20Convolutional%20Neural%20Networks.pdf)  | [Youtube](https://www.youtube.com/watch?v=xNd_lPE2UtU&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 8 | [Transformers](https://ml-course.github.io/master/notebooks/transformers)<sup>1</sup>   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/08%20-%20Transformers.pdf)  | [Youtube](https://www.youtube.com/watch?v=THbqTlVNIPg&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
-| 9 | [Finetuning Foundation Models]()<sup>1</sup>   | [PDF]()  | [Youtube]() |
+| 9 | [Fine-Tuning LLMs](https://ml-course.github.io/master/notebooks/fine-tuning-llms)<sup>1</sup>   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/09%20-%20Fine-Tuning%20LLMs.pdf)  | [Youtube]() |
+| 10 | [Agentic AI](https://ml-course.github.io/master/notebooks/agentic-ai)<sup>1</sup>   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/10%20-%20Agentic%20AI.pdf)  | [Youtube]() |
+
 
 <sup>1</sup> These lectures (slides and video recordings) are being updated.<br>
 <sup>2</sup> The order of the slides in the video is slightly different.
@@ -43,6 +45,16 @@ Download the lab notebooks and solve the questions locally, or launch them in Go
 | 5 | [Convolutional Neural Networks](https://ml-course.github.io/master/labs/lab-5-convolutional-neural-networks)  | / | [Lab 5](https://github.com/ML-course/master/blob/master/lab_solutions/Lab%205%20-%20Convolutional%20Neural%20Networks%20Solution.ipynb) (Release date: 11 Mar, 12:00)
 | 6 | [Transformers](https://ml-course.github.io/master/labs/lab-6-transformers)<sup>1</sup>  |  [Tutorial](https://ml-course.github.io/master/labs/Lab%206%20-%20Tutorial) | [Lab 6](https://github.com/ML-course/master/blob/master/lab_solutions/Lab%206a%20-%20Transformers%20Solution.ipynb) (Release date: 18 Mar, 12:00)
 | 6 | [Finetuning Foundation Models]()<sup>1</sup>  |  [Tutorial]() | [Lab 7]() (Release date: 25 Mar, 12:00)
+
+## Interactive Labs
+You have to be there to realy experience these labs :). A mix of history, quizzes, interview questions, in-class competitions and more!
+
+|   | Notebooks          |     Slides     |
+|:--|:-------------------|------------------|
+| 1 | [Linear Models](https://ml-course.github.io/master/labs/interactive-lab-1-linear-models) | [Slides](https://github.com/ML-course/master/blob/master/labs/Interactive%20Lab%201%20-%20Linear%20Models.pdf)
+| 2 | [Model Evaluation](https://ml-course.github.io/master/labs/interactive-lab-2-model-evaluation) | [Slides](https://github.com/ML-course/master/blob/master/labs/Interactive%20Lab%202%20-%20Model%20Evaluation.pdf)
+| 3 | [Preprocessing and Ensembles](https://ml-course.github.io/master/labs/interactive-lab-3-preprocessing-and-ensembles) | [Slides](https://github.com/ML-course/master/blob/master/labs/Interactive%20Lab%203%20-%20Preprocessing%20and%20Ensembles.pdf)
+
 
 ## Background materials
 ### Tutorials
