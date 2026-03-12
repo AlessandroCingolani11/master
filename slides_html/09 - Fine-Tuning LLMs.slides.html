@@ -5,7 +5,7 @@
 <meta content="chrome=1" http-equiv="X-UA-Compatible"/>
 <meta content="yes" name="apple-mobile-web-app-capable"/>
 <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
-<title>finetuning slides</title><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script><script type="module">
+<title>09-FineTuningLLMs slides</title><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script><script type="module">
   import mermaid from 'https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.7.0/mermaid.esm.min.mjs';
   mermaid.initialize({ startOnLoad: true });
 </script>
@@ -8028,7 +8028,7 @@ The larger the model, the better the performance.</p>
 <span class="c1"># Import Lora fine-tuning configuration</span>
 <span class="n">lora_config</span> <span class="o">=</span> <span class="n">LoraConfig</span><span class="p">(</span>
     <span class="n">r</span><span class="o">=</span><span class="mi">4</span><span class="p">,</span> <span class="c1"># rank controls the number of trainable parameters</span>
-    <span class="n">lora_alpha</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="c1"># a scaling factor that adjusts the magnitude of the weight matrix (lambda=a/r). Usually set equal to r</span>
+    <span class="n">lora_alpha</span><span class="o">=</span><span class="mi">4</span><span class="p">,</span> <span class="c1"># a scaling factor that adjusts the magnitude of the weight matrix (lambda=a/r). Usually set equal to r</span>
     <span class="n">target_modules</span><span class="o">=</span><span class="p">[</span><span class="s2">"query_key_value"</span><span class="p">],</span> <span class="c1"># the name of the modules to apply LoRA to. The name depends on the model used </span>
     <span class="n">lora_dropout</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span> <span class="c1"># to avoid overfitting</span>
     <span class="n">bias</span><span class="o">=</span><span class="s2">"lora_only"</span><span class="p">,</span> <span class="c1"># this specifies if the bias parameter should be trained</span>
