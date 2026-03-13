@@ -16,10 +16,9 @@ Upon opening the notebooks, you can <i class="fas fa-rocket"></i> launch them in
 | 6 | [Neural Networks](https://ml-course.github.io/master/notebooks/neural-networks)  | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/06%20-%20Neural%20Networks.pdf)  | [Youtube](https://www.youtube.com/watch?v=CgAMLWZE-yU&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 7 | [Convolutional Neural Networks](https://ml-course.github.io/master/notebooks/convolutional-neural-networks)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/07%20-%20Convolutional%20Neural%20Networks.pdf)  | [Youtube](https://www.youtube.com/watch?v=xNd_lPE2UtU&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 8 | [Transformers](https://ml-course.github.io/master/notebooks/transformers)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/08%20-%20Transformers.pdf)  | [Youtube](https://www.youtube.com/watch?v=THbqTlVNIPg&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
-| 8b | [Multimodal Transformers](https://ml-course.github.io/master/notebooks/multimodal-transformers)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/08m%20-%20Multimodal%20Transformers.pdf)  | [Youtube](https://www.youtube.com/watch?v=M46ztNmtdQg&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
+| 8b | [Multimodal Transformers](https://ml-course.github.io/master/notebooks/b-multimodal-transformers)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/08b%20-%20Multimodal%20Transformers.pdf)  | [Youtube](https://www.youtube.com/watch?v=M46ztNmtdQg&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 9 | [Fine-Tuning LLMs](https://ml-course.github.io/master/notebooks/fine-tuning-llms)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/09%20-%20Fine-Tuning%20LLMs.pdf)  | [Youtube](https://www.youtube.com/watch?v=-a7cmbqfux4&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
 | 10 | [Agentic AI](https://ml-course.github.io/master/notebooks/agentic-ai)   | [PDF](https://github.com/ML-course/master/blob/master/slides_pdf/10%20-%20Agentic%20AI.pdf)  | [Youtube](https://www.youtube.com/watch?v=quC1S88oZ8w&list=PLl4kuMJ32K2r2CUKkZSVVxDnjB4NM335-) |
-
 
 <sup>1</sup> The order of the slides in the video is slightly different.
 
